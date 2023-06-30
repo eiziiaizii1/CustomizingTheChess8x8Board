@@ -1,3 +1,4 @@
 # CustomizingTheChess8x8Board
+(1st term, programming course assignment)
 
-Rule is not to use arrays and more complex things.
+Rule: do not to use arrays and more complex things.
